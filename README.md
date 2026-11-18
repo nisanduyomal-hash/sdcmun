@@ -29,3 +29,9 @@ The logo file is in `assets/sdcmun-logo.png`.
 - UNCSW — United Nations Commission on the Status of Women
 - CC — Crisis Committee
 - IPC — International Press Corps
+
+
+## Official conference identity
+- Main title: Diplomacy Beyond Extinction
+- Conference slogan: Where Worlds Collide, Diplomacy Prevails.
+- Visual direction: Jurassic World-inspired cinematic expedition atmosphere with deep jungle greens, charcoal, amber warning accents and antique gold.
