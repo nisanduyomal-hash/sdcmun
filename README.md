@@ -17,3 +17,15 @@ The site uses static HTML, CSS and JavaScript. No package installation or build 
 Replace placeholders with confirmed conference details, committee agendas, dais names and portraits, study guide PDFs, official contact details and approved social links. The Secretary-General message is an editable draft and should be reviewed and approved before publication.
 
 The logo file is in `assets/sdcmun-logo.png`.
+
+
+## Official SDCMUN'27 councils
+
+- UNSC — United Nations Security Council
+- GA1 — General Assembly First Committee
+- UNESCO — United Nations Educational, Scientific and Cultural Organization
+- UNHRC — United Nations Human Rights Council
+- UNCSTD — United Nations Commission on Science and Technology for Development
+- UNCSW — United Nations Commission on the Status of Women
+- CC — Crisis Committee
+- IPC — International Press Corps
