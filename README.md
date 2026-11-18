@@ -1,8 +1,12 @@
-SDCMUN’27 cinematic website redesign
+SDCMUN'27 homepage update
+========================
 
-Upload the contents of this folder to the root of your existing GitHub repository, replacing the previous site files.
+This package updates the homepage with:
+- A conference introduction.
+- A live countdown to 09 January 2027 at 09:00 (Sri Lanka time).
+- A Secretary-General welcome message and the supplied portrait.
+- Official WhatsApp, Instagram and Facebook contact details in the footer and Contact page.
 
-The gallery now features a broader selection of stills spanning the original trilogy and newer films. Gallery tiles link to their image-gallery source pages. Image files are externally hosted and are not embedded in this archive; availability and permissions are subject to the respective rights holders and hosts. Confirm permission before public/commercial use.
+To publish: replace the files in the existing repository with the contents of this ZIP, commit, and allow Cloudflare to deploy.
 
-
-Visual update: five additional user-supplied film stills have been added. The gallery uses eight distinct images with no repeated gallery image. The homepage hero and feature section use separate images from the gallery.
+The countdown currently targets 09 January 2027, 09:00 Sri Lanka time. Confirm the opening time before publishing if the conference schedule changes.
