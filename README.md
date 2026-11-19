@@ -10,3 +10,11 @@ This package updates the homepage with:
 To publish: replace the files in the existing repository with the contents of this ZIP, commit, and allow Cloudflare to deploy.
 
 The countdown currently targets 09 January 2027, 09:00 Sri Lanka time. Confirm the opening time before publishing if the conference schedule changes.
+
+
+GA1 committee page update
+- White and turquoise visual identity.
+- Expanded First Committee mandate.
+- Added confirmed conference and practice debate topics.
+- Added three co-chairperson profiles; portraits for Sajana Hasaranga and Yenuli Thisasni are placeholders, and the supplied portrait is used for Ornella Ilamperuma.
+- Study guide marked as coming shortly.
